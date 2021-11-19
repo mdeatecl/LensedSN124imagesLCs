@@ -12,7 +12,6 @@ Each file starts with a header listing the number of images n_image in the syste
 
 1st col - observation time, days
 
-
 2nd col - total flux (+noise)
 
 
