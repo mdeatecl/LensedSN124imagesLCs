@@ -1,6 +1,6 @@
 The LensedSN124imagesLCs repository contains the code and data accompanying the manuscript 
 "Out of One, Many: Distinguishing Time Delays from Lensed Supernovae", arXiv:2109.13282 
-by Mikhail Denissenya, Satadru Bag, Alex G.~Kim, Eric V.~Linder, Arman Shafieloo.
+by Mikhail Denissenya, Satadru Bag, Alex G. Kim, Eric V. Linder, Arman Shafieloo.
 
 
 * LCSimulator_MultiImage.ipynb is the main script used to generate the lightcurves of strongly lensed supernovae in the article.
