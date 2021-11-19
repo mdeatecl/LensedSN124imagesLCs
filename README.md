@@ -14,21 +14,15 @@ Each file starts with a header listing the number of images n_image in the syste
 
 2nd col - total flux (+noise)
 
-
 3rd col - total flux measurement errors
-
 
 4th col - 1st image flux
 
-
 5th col - 2nd image flux (for n_image>1)
-
 
 6th col - 3rd image flux (for n_image>2)
 
-
 7th col - 4th image flux (for n_image>2)
-
 
 
 Contact email: mikhail.denissenya@nu.edu.kz
