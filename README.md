@@ -10,7 +10,7 @@ by Mikhail Denissenya, Satadru Bag, Alex G.~Kim, Eric V.~Linder, Arman Shafieloo
 Each file starts with a header listing the number of images n_image in the system. The lightcurve data are stored in columns:
 
 
-1st col - observation time
+1st col - observation time, days
 
 
 2nd col - total flux (+noise)
