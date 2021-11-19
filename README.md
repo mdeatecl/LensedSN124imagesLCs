@@ -7,7 +7,7 @@ by Mikhail Denissenya, Satadru Bag, Alex G.~Kim, Eric V.~Linder, Arman Shafieloo
 
 
 * gslsne_data.zip includes 300  simulated  lightcurves  of  1, 2, and 4  image  systems in g, r, i bands.
-Each file starts with a header listing the number of images n_image in the system. The lightcurve data are organized in columns:
+Each file starts with a header listing the number of images n_image in the system. The lightcurve data are stored in columns:
 
 
 1st col - observation time
